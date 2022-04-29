@@ -10,8 +10,9 @@ body {
 }
 
 #draw-pile {
-	margin: 5rem auto;
-	height: 100%;
+	position: absolute;
+	top: 25%;
+	right: 55%;
 }
 
 #draw-pile img {
