@@ -1,0 +1,19 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	color: white;
+	background-color: rgb(58, 139, 58);
+	text-align: center;
+}
+
+.hidden {
+	display: none;
+}
+
+#draw-pile {
+	margin: 5rem auto;
+	height: 100%;
+}
+
+#draw-pile img {
+	position: absolute;
+}
